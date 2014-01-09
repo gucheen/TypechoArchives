@@ -7,9 +7,9 @@
 $this->need('header.php');?>
 <style>
 .tit{margin-top:20px;}
-.cate_label{margin-right:5px;}
-.cate_label a{color:#000;}
-.cate_label a:hover{color:#34495e;}
+.cate_label{margin:10px;}
+.cate_label a{color:#000;font-size:16px;line-height:24px;}
+.cate_label a:hover{color:red;}
 #archives{padding:0 20px;}
 #archives li{list-style:none;}
 .al_post_list li{font-size:16px;line-height:25px;}
